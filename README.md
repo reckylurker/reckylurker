@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I’m @reckylurker, an undergrad from IIT Kharagpur. Here, I often delve in stuff that can do stuff. 
+- I am reachable at recklurker@gmail.com.
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **reckylurker/reckylurker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
