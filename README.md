@@ -1,4 +1,4 @@
-👋 Hi, I’m @reckylurker, an undergrad from IIT Kharagpur. Here, I often delve in stuff that can do stuff. 
+👋 Hi, I’m @reckylurker, I like to delve in stuff that can do stuff. 
 - I am reachable at recklurker@gmail.com.
 
 <!-- ## Hi there 👋 -->
